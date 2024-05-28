@@ -1,0 +1,4 @@
+repository "GeneratorMap2d@kuikuio_o-as-publisher@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
